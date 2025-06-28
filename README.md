@@ -1,8 +1,8 @@
 ![Fauzul Rahman](img/Github-header.jpg)
 
-### "Hi! I'm Fauzul Rahman Ahmadi 👋. I am passionate about Website Development."
+### Hi! I'm Fauzul Rahman Ahmadi 👋. I'm passionate all about Website Development.
 
-## "Right Now I'm on my way to mastering MERN Stack"
+## Right Now I'm on my way to mastering MERN Stack
 
 ---
 
