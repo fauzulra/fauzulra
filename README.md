@@ -1,6 +1,6 @@
 ![Fauzul Rahman](img/Github-header.jpg)
 
-### Hi!, I'm Fauzul Rahman Ahmadi👋. My interest is Website Development.
+### "Hi! I'm Fauzul Rahman Ahmadi 👋. I am passionate about Website Development."
 
 ---
 
