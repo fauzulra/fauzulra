@@ -2,6 +2,8 @@
 
 ### "Hi! I'm Fauzul Rahman Ahmadi 👋. I am passionate about Website Development."
 
+## "Right Now I'm on my way to mastering MERN Stack"
+
 ---
 
 #### Skills:
